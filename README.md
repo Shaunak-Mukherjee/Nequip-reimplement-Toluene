@@ -20,6 +20,7 @@ This repository contains a reimplementation of the Neural Equivariant Interatomi
 Ensure you have Python 3.8+ installed. It's recommended to use a virtual environment to manage dependencies.
 
 ### Installation
+Cloning is best option. Github oftens do not render ipynb thats been created together using Jupyter and Colab.
 
 1. **Clone the repository:**
 
