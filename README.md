@@ -58,11 +58,6 @@ The model achieves high accuracy in predicting the potential energy of toluene m
 ## 🤝 Contributing
 
 Contributions are welcome! If you have suggestions for improvements or new features, feel free to open an issue or submit a pull request.
-
-## 📄 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## 📫 Contact
 
-For questions or collaborations, please reach out via [LinkedIn](https://www.linkedin.com/in/shaunak-mukherjee-22b223a8).
+For questions or collaborations, please reach out via [LinkedIn](https://www.linkedin.com/in/shaunakmukherjee/).
