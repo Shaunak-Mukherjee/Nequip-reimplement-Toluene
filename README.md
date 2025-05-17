@@ -1,7 +1,7 @@
 
 # NequIP Reimplementation for Toluene
 
-This repository contains a reimplementation of the Neural Equivariant Interatomic Potential (NequIP) model, specifically tailored for predicting the potential energy of the toluene molecule. The codes/yaml files are inspired by https://github.com/mir-group/nequip. The project leverages E(3)-equivariant graph neural networks to achieve high accuracy in modeling interatomic potentials.
+This repository contains a reimplementation of the Neural Equivariant Interatomic Potential (NequIP) model, specifically tailored for predicting the potential energy of the toluene molecule. The codes/yaml files are inspired by https://github.com/mir-group/nequip. The project leverages E(3)-equivariant graph neural networks implemented on real world molecule "Toluene"
 
 ## 📁 Repository Structure
 
